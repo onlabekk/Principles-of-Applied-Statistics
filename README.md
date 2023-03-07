@@ -1,1 +1,1 @@
-# Principles-of-Applied-Statistics
+# Principles of Applied Statistics
